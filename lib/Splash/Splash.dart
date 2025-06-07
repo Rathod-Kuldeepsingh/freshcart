@@ -1,4 +1,4 @@
-// ignore_for_file: camel_case_types, use_build_context_synchronously
+// ignore_for_file: camel_case_types, use_build_context_synchronously, unused_import
 
 import 'package:flutter/material.dart';
 import 'package:freshcart/Onboarding/Onboard.dart';
